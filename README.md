@@ -71,7 +71,9 @@ Example: Tests recommendation relevance using sklearn metrics on mock data.
 - **Step 4 (Refine)**: Validated (no retries needed).
 - **Step 5 (Recommendations)**: Suggestions: "Recommend Jo Malone Peony & Blush Suede for young professionals; bundle with holiday candles for gifting."
 **Final Output (Social Media Posts)**:
-X
+
+  
+X:
 Singapore ladies 20-40! Unwrap joy this Nov-Dec with 25% off festive perfume bundles – perfect for Christmas gifting! Smell the savings on floral trends. #HolidayPerfume #BlackFridayDeals [Link to shop]”
 Facebook: “Dear Singaporean women aged 20-40, make this holiday season scentsational! From Black Friday to Christmas, enjoy personalized perfume promotions: 25% off bundles + free samples. What’s your signature scent? Comment below!
 #SingaporeShopping #FestiveFragrances [Image: Perfume set] [Shop Now]”
